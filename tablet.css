@@ -148,6 +148,7 @@ display: none;} */
         position: absolute;
         top:55px;
         right:20px;
+        cursor: pointer;
         border:none;
         background: transparent;
         z-index: 510000;
