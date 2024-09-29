@@ -131,7 +131,7 @@ nav.open .menu__list {
     font-size: 25px;
     font-family: "OpenSans-Regular";
     text-transform: uppercase;
-    animation: burgerAnimation 0.9s;
+    animation: burgerAnimation 0.5s;
    
 }
   @keyframes burgerAnimation{
